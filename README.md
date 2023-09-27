@@ -1,4 +1,4 @@
-- 👋 Hi, Petya
+- 👋 Hi, I’m Petya
 - 👀 I’m Website developer, SEO Expert and digital marketing specialist
 - 🌱 I’m currently learning Python! I love it!
 - 💞️ I’m looking new challenges and people to do them with.
