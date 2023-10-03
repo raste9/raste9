@@ -10,7 +10,8 @@
 	#<meta property="og:type" content="website" />
 	#<meta property="og:title" content="SEO, Wordpress, HTML, CSS, Python" />
     #<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
-    #<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" /> <!-- https://fonts.google.com/ -->
+    #<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" /> 
+    <!-- https://fonts.google.com/ -->
 #</head>
 <body>COMING SOON</body>
 #</html>
