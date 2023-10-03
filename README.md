@@ -8,13 +8,14 @@
 	#<link rel="canonical" href="https://web-seo-development.com/" />
 	#<meta property="og:locale" content="Plovdiv" />
 	#<meta property="og:type" content="website" />
-	#<meta property="og:title" content="SEO, Wordpress, HTML, CSS, Python" />
+	#<meta property="og:title" content="SEO, Wordpress, HTML, CSS, Python, LINUX" />
     #<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
     #<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" /> 
     <!-- https://fonts.google.com/ -->
-#</head>
-<body>COMING SOON</body>
-#</html>
+</head>
+<body>MY WORK | MY PASSION
+</body>
+</html>
 
 <!---
 raste9/raste9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
